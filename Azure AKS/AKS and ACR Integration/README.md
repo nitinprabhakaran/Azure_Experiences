@@ -291,7 +291,7 @@ kubectl create secret docker-registry acrdemo2ss-secret \
 # List Secrets
 kubectl get secrets    
 ```
-
+---
 
 ---
 title: Pull ACR using SP and run on Azure Virtual Nodes
